@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppAvaliacao</string>
+    <string name="diceRoller">AppAvaliacao</string>
+    <string name="rool_label">Testar</string>
+    <string name="text_center">Digite os Valores</string>
+</resources>
